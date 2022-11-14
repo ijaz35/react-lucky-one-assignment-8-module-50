@@ -1,0 +1,32 @@
+.product {
+    width: 300px;
+    width: 300px;
+    height: 490px;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    position: relative;
+    background-color: #e2e2e2;
+}
+
+.product img {
+    width: 286px;
+    height: 286px;
+    border-radius: 8px;
+    margin: 7px;
+}
+
+.btn-cart {
+    width: 100%;
+    background: #9d9d9d;
+    border: none;
+    border-radius: 0px 0px 8px 8px;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-cart .btn-text {
+    margin-right: 5px;
+}

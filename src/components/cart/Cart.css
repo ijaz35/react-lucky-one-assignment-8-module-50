@@ -1,0 +1,19 @@
+.cart {
+    position: sticky;
+    top: 0;
+}
+
+.choose-btn,
+.refresh-btn {
+    width: 232px;
+    height: 48px;
+    background-color: #9d9d9d;
+    border: none;
+    border-radius: 8px;
+    margin-top: 20px;
+
+}
+
+.refresh-btn {
+    margin-top: 25px;
+}
