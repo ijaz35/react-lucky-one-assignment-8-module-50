@@ -2,8 +2,6 @@ import React, { useEffect, useState } from 'react';
 import { addToDb, getCart } from '../../storage';
 import Cart from '../cart/Cart';
 import Shoe from '../shoe/Shoe';
-
-
 import './Shop.css'
 
 const Shop = () => {

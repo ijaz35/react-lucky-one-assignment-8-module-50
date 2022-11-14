@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+## Project name: [Foot Locker Shoe Store](https://foot-locker-shoe-store.netlify.app/) 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
